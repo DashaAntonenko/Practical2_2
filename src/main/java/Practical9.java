@@ -17,7 +17,7 @@ public class Practical9 {
 //
 //        }finally{
 //            try{
-//                FileWriter fw = new FileWriter("C:\Java\resp.html");
+//                FileWriter fw = new FileWriter("C:\\qwerty\\resp.html");
 //                fw.write(httpRunnable.getResponseBody());
 //                fw.close();
 //                System.out.println("Success save response from server:" + server);
