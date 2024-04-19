@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a73ee5e-a655-42ac-8840-6c7c4c6bb722" name="Changes" comment="" />
+    <list default="true" id="5a73ee5e-a655-42ac-8840-6c7c4c6bb722" name="Changes" comment="Pract" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +14,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,10 +36,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Practical22 [:Practical9.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/qazpo/IdeaProjects/Practical22/src/main/java/org/example/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/qazpo/IdeaProjects/Practical22/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -44,7 +53,20 @@
       <option name="presentableId" value="Default" />
       <updated>1713565631408</updated>
     </task>
+    <task id="LOCAL-00001" summary="Pract">
+      <option name="closed" value="true" />
+      <created>1713568868808</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713568868809</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pract" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pract" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
